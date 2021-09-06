@@ -1,0 +1,26 @@
+.width {
+    width: 100%;
+    font-size: 18px;
+    margin: 0;
+}
+
+body{
+    background-size: cover;
+}
+
+canvas{
+    border-radius: 10px;
+    border: 10px solid white;
+    box-shadow: 10px 10px 10px white;
+    margin-top: 85px;
+}
+div{
+    width: 100%;
+    height: 40px;
+    font-size: 16px;
+    background-color: grey;
+    text-align: center;
+    color: white;
+    position: fixed;
+    bottom: 0;
+}
